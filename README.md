@@ -8,3 +8,5 @@ Coleccionables:
 Personaje Principal:
 
 Personajes Secundarios:
+
+Acciones:
